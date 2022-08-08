@@ -3,7 +3,7 @@ enum Ticket {
     VIP(f64, String),
     Standard(f64),
 }
-pub fn rs15() {
+pub fn _fn() {
     let tickets: Vec<Ticket> = vec![
         Ticket::BackStage(1.1, "babak".to_owned()),
         Ticket::VIP(1.2, "vahid".to_owned()),

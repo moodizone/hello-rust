@@ -1,5 +1,5 @@
-mod rs15;
+mod rs18;
 
 fn main() {
-    rs15::rs15()
+    rs18::_fn()
 }
